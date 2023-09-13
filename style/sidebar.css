@@ -1,0 +1,68 @@
+.side-bar{
+    position: fixed;
+    top: 55px;
+    bottom: 0;
+    left: 0;
+    background-color: white;
+    width: 80px;
+}
+.sidebar-link
+{
+    
+    height: 75px;
+    
+}
+.sidebar-link:hover{
+    background-color: lightgrey;
+}
+
+.home-icon{
+    height: 80px;
+    width: 80px;
+
+}
+.shorts-icon{
+    height: 40px;
+    width: 40px;
+    padding-left: 15px;
+    padding-top: 15px;
+}
+.sub-icon{
+    height: 45px;
+    width: 40px;
+    padding-left: 15px;
+    padding-top: 10px;
+}
+.lib-icon{
+    height: 40px;
+    width: 40px;
+    padding-left: 15px;
+    padding-top: 15px;
+}
+.sub{    
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.home{
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 15px;
+    padding-left: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.shorts{
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 15px;
+    padding-left: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.lib{
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 15px;
+    padding-left: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
